@@ -6,7 +6,7 @@ Group project by Upgrad on Data Science Post Graduate Programme. This project co
    and statisitcal modelling from historical data to create a classification model to help in identifying these customers.
 
 *Task
-     1. Preprocess the data
+     - [ x ] Preprocess the data
      2. Perform Exploratory Data Analysis (EDA)
      3. Feature Selection
      4. Feature Importance
